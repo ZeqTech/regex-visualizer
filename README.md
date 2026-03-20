@@ -10,7 +10,7 @@ https://zeqtech.github.io/regex-visualizer
 
 ## Screenshot
 
-![Git Visualizer screenshot](public/Example.png)
+![Git Visualizer screenshot](public/Example.PNG)
 
 Interactive terminal and live commit graph in the presentation preset.
 
